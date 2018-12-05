@@ -1,6 +1,5 @@
 #!/bin/bash
 #@date 2017-05-12
-#@author qinfsoft
 sudo apt-get update
 sudo apt-get install subversion
 sudo apt-get install libjpeg8-dev
